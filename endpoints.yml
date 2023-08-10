@@ -1,3 +1,3 @@
 action_endpoint:
-  url: http://localhost:5055/webhook
+  url: http://3.80.140.59/webhook
 
